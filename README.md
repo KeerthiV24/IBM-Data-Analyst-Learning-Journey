@@ -15,6 +15,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 |---|---|---|
 | Day 01 | Data Analytics Foundations | ✅ Completed |
 | Day 02 | Data Sources, File Formats & Analytics Tools | ✅ Completed |
+| Day 03 | Data Repositories & Relational Databases | ✅ Completed |
 
 ## 📝 Daily Updates
 
@@ -28,6 +29,14 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - File formats: CSV, TSV, XML and JSON.
 - Programming languages: Python, SQL and R.
 - Tools used in Data Analytics.
+
+### Day 03 – Data Repositories & Relational Databases
+- Overview of data repositories.
+- Database Management Systems (DBMS).
+- Relational and non-relational databases.
+- Relational Database Management Systems (RDBMS).
+- Data warehouses and ETL.
+- OLTP and OLAP concepts.
 
 ## 🛠️ Technologies & Skills
 - Microsoft Excel
