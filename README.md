@@ -16,6 +16,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 | Day 01 | Data Analytics Foundations | ✅ Completed |
 | Day 02 | Data Sources, File Formats & Analytics Tools | ✅ Completed |
 | Day 03 | Data Repositories & Relational Databases | ✅ Completed |
+| Day 04 | NoSQL, Big Data & Data Processing | ✅ Completed |
 
 ## 📝 Daily Updates
 
@@ -38,6 +39,15 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Data warehouses and ETL.
 - OLTP and OLAP concepts.
 
+### Day 04 – NoSQL, Big Data & Data Processing
+- NoSQL databases and their types.
+- Advantages of NoSQL databases.
+- Data warehouses, data marts and data lakes.
+- ETL process and data pipelines.
+- Batch and stream processing.
+- Big Data and its 5 Vs.
+- Hadoop, HDFS, Hive and Apache Spark.
+
 ## 🛠️ Technologies & Skills
 - Microsoft Excel
 - SQL
@@ -45,6 +55,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Pandas & NumPy
 - Data Visualization
 - Business Intelligence
+- NoSQL & Big Data Fundamentals
 
 ## 🚀 My Goal
 
