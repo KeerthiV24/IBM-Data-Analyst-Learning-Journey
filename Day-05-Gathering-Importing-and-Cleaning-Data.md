@@ -1,6 +1,6 @@
 # Day 05 – Gathering, Importing and Cleaning Data
 
-**Date:** 13 November 2026  
+**Date:** 14 November 2026  
 **Course:** IBM Data Analyst Professional Certificate
 
 ## 📚 Topics Covered
