@@ -17,6 +17,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 | Day 02 | Data Sources, File Formats & Analytics Tools | ✅ Completed |
 | Day 03 | Data Repositories & Relational Databases | ✅ Completed |
 | Day 04 | NoSQL, Big Data & Data Processing | ✅ Completed |
+| Day 05 | Data Gathering, Importing & Cleaning | ✅ Completed |
 
 ## 📝 Daily Updates
 
@@ -48,6 +49,14 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Big Data and its 5 Vs.
 - Hadoop, HDFS, Hive and Apache Spark.
 
+### Day 05 – Data Gathering, Importing & Cleaning
+- Data collection using SQL queries and APIs.
+- Web scraping and data streams.
+- Structured, semi-structured and unstructured data.
+- Data wrangling phases and tools.
+- Data cleaning workflow and data quality.
+- Data preparation and reliability.
+
 ## 🛠️ Technologies & Skills
 - Microsoft Excel
 - SQL
@@ -56,6 +65,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Data Visualization
 - Business Intelligence
 - NoSQL & Big Data Fundamentals
+- Data Cleaning & Preparation
 
 ## 🚀 My Goal
 
