@@ -3,7 +3,7 @@
 **Date:** 13 November 2026  
 **Course:** IBM Data Analyst Professional Certificate
 
-## 📚 Topics Covered
+## 📚 Topics Covered 
 
 ### 1. Overview of Statistical Analysis
 - Statistics is a branch of mathematics used for collecting, analyzing, interpreting, and presenting numerical data.
