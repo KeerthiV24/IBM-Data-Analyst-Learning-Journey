@@ -18,6 +18,7 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 | Day 03 | Data Repositories & Relational Databases | ✅ Completed |
 | Day 04 | NoSQL, Big Data & Data Processing | ✅ Completed |
 | Day 05 | Data Gathering, Importing & Cleaning | ✅ Completed |
+| Day 06 | Statistical Analysis, Data Mining & Data Visualization | ✅ Completed |
 
 ## 📝 Daily Updates
 
@@ -57,6 +58,15 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Data cleaning workflow and data quality.
 - Data preparation and reliability.
 
+### Day 06 – Statistical Analysis, Data Mining & Data Visualization
+- Descriptive and inferential statistics.
+- Mean, median, mode, variance and standard deviation.
+- Population and sample concepts.
+- Data mining techniques and applications.
+- Data storytelling and communicating findings.
+- Data visualization, charts and dashboards.
+- Visualization tools: Excel, Python, Tableau, Power BI and IBM Cognos.
+
 ## 🛠️ Technologies & Skills
 - Microsoft Excel
 - SQL
@@ -66,6 +76,8 @@ Documenting my daily learning journey through the IBM Data Analyst Professional 
 - Business Intelligence
 - NoSQL & Big Data Fundamentals
 - Data Cleaning & Preparation
+- Statistical Analysis
+- Data Mining
 
 ## 🚀 My Goal
 
