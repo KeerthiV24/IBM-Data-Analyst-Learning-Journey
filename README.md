@@ -1,0 +1,113 @@
+# IBM Data Analyst Learning Journey
+
+Documenting my daily learning journey through the IBM Data Analyst Professional Certificate on Coursera. Building practical skills in SQL, Python, Excel, and Data Analytics.
+
+## 🎯 Learning Goals
+- Understand Data Analytics fundamentals.
+- Develop SQL and Python skills.
+- Improve Excel skills.
+- Learn data cleaning and visualization.
+- Apply analytical concepts to real-world problems.
+
+## 📚 Daily Learning Progress
+
+| Day | Topics Covered | Status |
+|---|---|---|
+| Day 01 | Data Analytics Foundations | ✅ Completed |
+| Day 02 | Data Sources, File Formats & Analytics Tools | ✅ Completed |
+| Day 03 | Data Repositories & Relational Databases | ✅ Completed |
+| Day 04 | NoSQL, Big Data & Data Processing | ✅ Completed |
+| Day 05 | Data Gathering, Importing & Cleaning | ✅ Completed |
+| Day 06 | Statistical Analysis, Data Mining & Data Visualization | ✅ Completed |
+| Day 07 | IBM Data Analytics Foundations – Course 01 Completion | 🏆 Completed |
+
+## 📝 Daily Updates
+
+### Day 01 – Data Analytics Foundations
+- Introduction to Data Analytics.
+- Role of a Data Analyst.
+- Data analysis process and fundamentals.
+
+### Day 02 – Data Sources & File Formats
+- Different data sources and relational databases.
+- File formats: CSV, TSV, XML and JSON.
+- Programming languages: Python, SQL and R.
+- Tools used in Data Analytics.
+
+### Day 03 – Data Repositories & Relational Databases
+- Overview of data repositories.
+- Database Management Systems (DBMS).
+- Relational and non-relational databases.
+- Relational Database Management Systems (RDBMS).
+- Data warehouses and ETL.
+- OLTP and OLAP concepts.
+
+### Day 04 – NoSQL, Big Data & Data Processing
+- NoSQL databases and their types.
+- Advantages of NoSQL databases.
+- Data warehouses, data marts and data lakes.
+- ETL process and data pipelines.
+- Batch and stream processing.
+- Big Data and its 5 Vs.
+- Hadoop, HDFS, Hive and Apache Spark.
+
+### Day 05 – Data Gathering, Importing & Cleaning
+- Data collection using SQL queries and APIs.
+- Web scraping and data streams.
+- Structured, semi-structured and unstructured data.
+- Data wrangling phases and tools.
+- Data cleaning workflow and data quality.
+- Data preparation and reliability.
+
+### Day 06 – Statistical Analysis, Data Mining & Data Visualization
+- Descriptive and inferential statistics.
+- Mean, median, mode, variance and standard deviation.
+- Population and sample concepts.
+- Data mining techniques and applications.
+- Data storytelling and communicating findings.
+- Data visualization, charts and dashboards.
+- Visualization tools: Excel, Python, Tableau, Power BI and IBM Cognos.
+
+### Day 07 – IBM Data Analytics Foundations: Course Completion 🎉
+- Successfully completed all five modules of Course 01.
+- Completed graded quizzes and course assignments.
+- Explored career opportunities in Data Analytics.
+- Learned about skills employers look for in Data Analysts.
+- Studied data analysis through a credit card fraud detection case study.
+- Understood the end-to-end data analysis workflow.
+- Completed the first course of the IBM Data Analyst Professional Certificate.
+
+## 🎓 IBM Data Analyst Certificate Progress
+
+| Details | Progress |
+|---|---|
+| Total Courses | 11 |
+| Completed Courses | 1 |
+| Remaining Courses | 10 |
+| Completion Percentage | 9.09% |
+
+**Course 01:** Data Analytics Foundations: Turn Data into Insights – ✅ Completed
+
+## 🛠️ Technologies & Skills
+- Microsoft Excel
+- SQL
+- Python
+- Pandas & NumPy
+- Data Visualization
+- Business Intelligence
+- NoSQL & Big Data Fundamentals
+- Data Cleaning & Preparation
+- Statistical Analysis
+- Data Mining
+
+## 🚀 My Goal
+
+To become a skilled Data Analyst by learning consistently, practising regularly, and building real-world projects.
+
+## 🔗 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/keerthiv23
+- **GitHub:** https://github.com/
+
+---
+
+⭐ Learning Every Day | Building Skills | Turning Data into Insights
