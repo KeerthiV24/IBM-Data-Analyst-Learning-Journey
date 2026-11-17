@@ -1,0 +1,39 @@
+# Day 09 – Excel for Data Analysis: Data Cleaning
+
+**Date:** 17 November 2026  
+**Course:** IBM Data Analyst Professional Certificate  
+**Module:** Excel for Data Analysis – Essential Skills & Techniques
+
+## 📚 Topics Covered
+
+### 1. Removing Duplicated, Irrelevant or Inaccurate Data
+- Checked spelling errors in datasets.
+- Removed unnecessary columns and fields.
+- Identified and removed duplicate records.
+- Used Find & Replace to correct incorrect values.
+
+### 2. Dealing with Inconsistencies in Data
+- Used the PROPER function to format names correctly.
+- Used the UPPER function to convert text into uppercase.
+- Used the LOWER function to convert text into lowercase.
+- Changed date formats for consistency.
+- Used Find & Replace to correct inconsistent data.
+
+### 3. More Excel Features for Cleaning Data
+- Practised the Flash Fill feature.
+- Used LEFT and RIGHT functions to extract text.
+- Used LEN to calculate the length of text.
+- Used FIND to locate specific characters or text positions.
+
+## 🎯 Learning Objectives
+- Understand the importance of data cleaning.
+- Identify and remove duplicate records.
+- Correct spelling mistakes and inconsistent values.
+- Standardize text and date formats.
+- Use Excel functions and features to prepare clean datasets for analysis.
+
+## 💡 Key Takeaway
+
+Today I learned how to clean and organize raw datasets using Excel. I practised different Excel functions and features to remove errors, handle inconsistencies, and prepare data for accurate analysis.
+
+**Status:** ✅ Completed
