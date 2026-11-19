@@ -49,6 +49,11 @@ More daily learning updates will be added continuously.
 - ✅ Course 01 – Data Analytics Foundations: Turn Data into Insights
 - ✅ Course 02 – Excel for Data Analysis: Essential Skills & Techniques
 
+**Course 01 Achievement:**
+- Completed Nine graded quizzes.
+- Completed the Two - AI-graded final project.
+- Final project score: 80%.
+
 **Course 02 Achievement:**
 - Completed six graded quizzes.
 - Completed the AI-graded final project.
