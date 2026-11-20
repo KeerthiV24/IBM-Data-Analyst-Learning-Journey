@@ -5,7 +5,7 @@
 This course is part of the IBM Data Analyst Professional Certificate on Coursera.
 
 In this course, I am learning Microsoft Excel and spreadsheet applications for organizing, managing, analysing and presenting data.
-
+          
 ## 🎯 Learning Goals
 
 - Understand spreadsheet applications.
