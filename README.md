@@ -30,8 +30,9 @@ This repository documents my daily learning progress, important concepts, practi
 | Day 08 | Excel Fundamentals, Spreadsheet Basics & Cell References | ✅ Completed |
 | Day 09 | Excel Data Cleaning, Flash Fill & Text Functions | ✅ Completed |
 | Day 10 | Excel Filtering, Sorting, Functions, Lookups & Pivot Tables | ✅ Completed |
+| Day 11 | Introduction to Data Visualization, Excel Keyboard Shortcuts, Chart Types, Data Storytelling & Pivot Tables | ✅ Completed |
 
-**Total Learning Days Completed: 10**
+**Total Learning Days Completed: 11**
 
 More daily learning updates will be added continuously.
 
@@ -41,7 +42,8 @@ More daily learning updates will be added continuously.
 |---|---:|
 | Total Courses | 11 |
 | Completed Courses | 2 |
-| Remaining Courses | 9 |
+| Courses In Progress | 1 |
+| Remaining Courses | 8 |
 | Certificate Progress | 18.18% |
 
 ### Completed Courses
@@ -49,9 +51,13 @@ More daily learning updates will be added continuously.
 - ✅ Course 01 – Data Analytics Foundations: Turn Data into Insights
 - ✅ Course 02 – Excel for Data Analysis: Essential Skills & Techniques
 
+### Current Course
+
+- 🔄 Course 03 – Data Visualization and Dashboards with Excel and Cognos
+
 **Course 01 Achievement:**
-- Completed Nine graded quizzes.
-- Completed the Two - AI-graded final project.
+- Completed nine graded quizzes.
+- Completed the AI-graded final project.
 - Final project score: 80%.
 
 **Course 02 Achievement:**
@@ -76,6 +82,8 @@ More daily learning updates will be added continuously.
 - Flash Fill and Text Functions
 - Data Filtering and Sorting
 - Pivot Tables
+- Charts and Graphs
+- Data Storytelling
 
 **Programming & Databases**
 - SQL
