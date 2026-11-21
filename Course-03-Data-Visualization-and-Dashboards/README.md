@@ -10,7 +10,7 @@ This course is part of the IBM Data Analyst Professional Certificate on Coursera
 |---|---|---|
 | Day 11 | Course introduction, Excel shortcuts, chart types, data storytelling and Pivot Tables | Completed |
 
-## Skills Learning
+## Skills Learning    
 - Excel Data Visualization
 - Charts and Graphs
 - Data Storytelling
