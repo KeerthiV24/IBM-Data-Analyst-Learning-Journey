@@ -12,7 +12,7 @@
 - Useful for big data and high-volume applications.
 - Offers scalability and flexibility.
 
-### 2. Types of NoSQL Databases
+### 2. Types of NoSQL Databases    
 
 **Key-Value Database**
 - Stores data as key-value pairs.
