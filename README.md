@@ -30,9 +30,10 @@ This repository documents my daily learning progress, important concepts, practi
 | Day 08 | Excel Fundamentals, Spreadsheet Basics & Cell References | ✅ Completed |
 | Day 09 | Excel Data Cleaning, Flash Fill & Text Functions | ✅ Completed |
 | Day 10 | Excel Filtering, Sorting, Functions, Lookups & Pivot Tables | ✅ Completed |
-| Day 11 | Introduction to Data Visualization, Excel Keyboard Shortcuts, Chart Types, Data Storytelling & Pivot Tables | ✅ Completed |
+| Day 11 | Introduction to Data Visualization, Excel Shortcuts, Chart Types, Data Storytelling & Pivot Tables | ✅ Completed |
+| Day 12 | Excel Charts, PivotCharts, Advanced Data Visualization & Dashboard Creation | ✅ Completed |
 
-**Total Learning Days Completed: 11**
+**Total Learning Days Completed: 12**
 
 More daily learning updates will be added continuously.
 
@@ -81,9 +82,10 @@ More daily learning updates will be added continuously.
 - VLOOKUP, HLOOKUP and XLOOKUP
 - Flash Fill and Text Functions
 - Data Filtering and Sorting
-- Pivot Tables
+- Pivot Tables and PivotCharts
 - Charts and Graphs
 - Data Storytelling
+- Dashboard Fundamentals
 
 **Programming & Databases**
 - SQL
