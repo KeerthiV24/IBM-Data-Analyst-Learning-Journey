@@ -32,8 +32,9 @@ This repository documents my daily learning progress, important concepts, practi
 | Day 10 | Excel Filtering, Sorting, Functions, Lookups & Pivot Tables | ✅ Completed |
 | Day 11 | Introduction to Data Visualization, Excel Shortcuts, Chart Types, Data Storytelling & Pivot Tables | ✅ Completed |
 | Day 12 | Excel Charts, PivotCharts, Advanced Data Visualization & Dashboard Creation | ✅ Completed |
+| Day 13 | Introduction to IBM Cognos Analytics, Data Modelling, Data Exploration & Dashboard Creation | ✅ Completed |
 
-**Total Learning Days Completed: 12**
+**Total Learning Days Completed: 13**
 
 More daily learning updates will be added continuously.
 
@@ -106,7 +107,7 @@ More daily learning updates will be added continuously.
 - Jupyter Notebook
 - Tableau
 - Power BI
-- IBM Cognos
+- IBM Cognos Analytics
 - GitHub
 
 ## 🚀 My Career Goal
