@@ -5,7 +5,7 @@ Welcome to my IBM Data Analyst Professional Certificate learning journey on Cour
 I am building practical skills in **Data Analytics, SQL, Python, Microsoft Excel, Data Cleaning, Statistics, and Data Visualization** through structured learning and hands-on practice.
 
 This repository documents my daily learning progress, important concepts, practical exercises, and achievements as I work towards becoming a Data Analyst.
-
+              
 ## 🎯 Learning Goals
 
 - Build strong foundations in Data Analytics.
