@@ -12,15 +12,18 @@
 
 ### 2. Dashboard Creation
 
-![Dashboard Creation](Day-14-Dashboard-Creation.png)
+<img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/95a3be24-f15d-4217-ae0d-871ce000f7b8" />
+
 
 ### 3. IBM Cognos Analytics
 
-![IBM Cognos Analytics](Day-14-IBM-Cognos-Analytics.png)
+<img width="1920" height="1080" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/12446488-3fb8-459a-967c-9381294a94a5" />
 
-### 4. Final Project – Analysing Car Sales
 
-![Final Project Result](Day-14-Final-Project-Result.png)
+### 4. Final Project – Analysing Car Sales Results.
+
+<img width="722" height="1599" alt="WhatsApp Image 2026-11-26 at 11 04 27 PM" src="https://github.com/user-attachments/assets/67541ec4-cb01-4031-8287-432d44a8f429" />
+
 
 ---
 
