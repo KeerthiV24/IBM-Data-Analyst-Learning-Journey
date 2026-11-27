@@ -2,13 +2,13 @@
 
 **Date:** 22 November 2026  
 **Course:** IBM Data Analyst Professional Certificate
-
+  
 ## 📚 Topics Covered
 
 ### 1. Using Excel PivotChart Features
 - PivotCharts are used to visualize data from Pivot Tables.
 - They work similarly to standard Excel charts.
-- The source data is connected to a Pivot Table.
+- The source data is connected to a Pivot Table.     
 - Useful for presenting complex data in a simple visual format.
 
 ### 2. Understanding Different Chart Types
